@@ -1,0 +1,15 @@
+>ng g c comment
+
+
+
+(1) PIPES - ( Filter )
+
+(2) Directives 
+
+
+(3) Test Cases - Jasmine, Protracter 
+
+
+(4) Prod - Build & deployment
+              - environments file for PROD 
+              

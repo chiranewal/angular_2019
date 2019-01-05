@@ -1,0 +1,17 @@
+p>ng build --prod ---base-href
+
+COMMANDS ================
+
+ng generate directive 
+
+ng serve --source-map=false --host localhost --port 4500
+
+
+
+
+***TODOs
+
+1. project work
+2. proj GitHub 
+
+3. 
