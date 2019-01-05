@@ -1,0 +1,28 @@
+
+
+Angular material 
+
+Karma with practoter - for testing  (  Selenium or Jasmine ) 
+
+
+
+Deployment -- IIS or Tomcat/ Jboss (  banking - TOmcat ) ,  MEAN - stack - node 
+
+
+JavaScript -- is NOT peefrred  - functional
+
+Tyoe Script -- is COMPILED (
+
+ECMA Standards -- LET 
+
+
+WEBSTORM -- Ide 
+
+
+
+
+ToDO ********
+
+1. Parameterised Function 
+
+2. Mixins - class - do

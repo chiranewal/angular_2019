@@ -1,0 +1,34 @@
+Angular CLI - for project structure 
+
+*** IDE ****
+WebStorm
+VSCode 
+IntelliJ
+
+
+Architecture *******
+
+Cutomisation - challlenge 
+
+HTML - DOM -- Node
+
+*** Drawbacks JavaScript ****
+1) State of component
+2) Singl Page Appplication -- ( App decides the navigation ) 
+
+
+Virtual DOM or Shadow DOM 
+
+
+BootStrapping in Angular ( entry Point )
+
+
+Angular --> root component -->  
+
+Angular Material ---
+
+-----------------
+
+Dist 
+App.js  ( TS files we write )
+vendor.js  ( library ) 
